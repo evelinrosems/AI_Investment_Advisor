@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+databases[sqlite]
+pydantic
+scikit-learn
+pandas
+numpy
+yfinance
+streamlit
+python-multipart
+requests
+joblib
+ss

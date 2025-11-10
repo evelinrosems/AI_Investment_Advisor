@@ -1,0 +1,2 @@
+streamlit run frontend.py (- to run frontend)
+uvicorn app:app --reload (- to run backend)
